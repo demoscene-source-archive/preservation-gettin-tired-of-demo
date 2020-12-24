@@ -1,0 +1,20 @@
+Short:    Gettin' tried of.. ? By BMH.. TP4 WiLD Compo intro
+Uploader: kivi@cd.chalmers.se (Kalle Kiviaho, Sweden)
+Author:   Barking Mad Hedgehogs
+Type:     demo/par94
+
+Gettin' tried of.. ? is a multitasking intro written in pure C,
+it should work on any Amiga. It has been tested on:
+
+ A500 OS 1.3  68000  7MHz 0.5MB chip 0.5MB fast
+ A600 OS 2.05 68000  7MHz   2MB chip
+A1200 OS 3.0  68020 14MHz   2MB chip   4MB fast
+A1200 OS 3.0  68030 28MHz   2MB chip   4MB fast
+
+It works on multisync monitors too (DBLPAL)..
+
+Source is included and is compiliable on SAS/C 6.51+
+
+Extra credits go to:
+
+PTReplay.library version 4.16 by Mattias Karlsson. © 1994 BetaSoft
