@@ -21,8 +21,8 @@ Source is included and is compiliable on SAS/C 6.51+
 
 ### Extra credits go to:
 
-PTReplay.library version 4.16 by Mattias Karlsson. © 1994 BetaSoft
+PTReplay.library version 4.16 by Mattias Karlsson. Â© 1994 BetaSoft
 
 ### Copyright Disclaimer:
 
-This source code was provided here for *preservation* purpose. Resistance doesn't claim any copyright on this production.
+This source code was provided here for *preservation* purpose. `demoscene-source-archive` doesn't claim any copyright on this production.
